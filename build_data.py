@@ -46,8 +46,8 @@ def main():
     vocab.add(NUM)                                             # 手动添加
     print("len of vocab without entity: ", len(vocab))
 
-    vocab_entity = entity2vocab(datasets=[train, dev, test])
-    vocab.update(vocab_entity)
+    # vocab_entity = entity2vocab(datasets=[train, dev, test])
+    # vocab.update(vocab_entity)
     # vocab = entity2vocab(datasets=[train, dev], vocab=vocab)
 
     # Save vocab
