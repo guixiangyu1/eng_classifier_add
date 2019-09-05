@@ -16,8 +16,8 @@ Ladki E-LOC
 
 AL-AIN S-PER
 , O
-United B-PER
-Arab I-PER
-Emirates E-PER
+United B-LOC
+Arab I-LOC
+Emirates E-LOC
 1996-12-06 O
 
