@@ -34,7 +34,7 @@ def main():
                                    processing_tag=config.processing_tag)
 
     # evaluate and interact
-    print(test4cl)
+    print(len(test4cl))
     model.evaluate(test4cl)
     # interactive_shell(model)
 
