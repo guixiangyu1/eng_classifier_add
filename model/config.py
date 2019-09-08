@@ -91,7 +91,7 @@ class Config():
     dropout          = 0.5
     batch_size       = 100
     lr_method        = "adam"
-    lr               = 0.005
+    lr               = 0.003
     lr_decay         = 1.0
     clip             = -3 # if negative, no clipping
     nepoch_no_imprv  = 8
